@@ -1,5 +1,5 @@
 # TCPClientReverseShellCS
-C# reverse shell using TCPClient
+C# reverse shell using TCPClient - 32/64bit
 
 Convert Windows cmd.exe or ReactOS cmd.exe to shellcode and embed. If one use Windows cmd.exe shellcode version the only "error" minor, it complains over missing code page.
 
